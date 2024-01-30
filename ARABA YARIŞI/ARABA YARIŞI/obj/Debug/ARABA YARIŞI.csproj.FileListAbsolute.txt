@@ -1,0 +1,11 @@
+C:\Users\tilve\OneDrive\Masaüstü\C#\ARABA YARIŞI\ARABA YARIŞI\bin\Debug\ARABA YARIŞI.exe.config
+C:\Users\tilve\OneDrive\Masaüstü\C#\ARABA YARIŞI\ARABA YARIŞI\bin\Debug\ARABA YARIŞI.exe
+C:\Users\tilve\OneDrive\Masaüstü\C#\ARABA YARIŞI\ARABA YARIŞI\bin\Debug\ARABA YARIŞI.pdb
+C:\Users\tilve\OneDrive\Masaüstü\C#\ARABA YARIŞI\ARABA YARIŞI\obj\Debug\ARABA YARIŞI.csproj.AssemblyReference.cache
+C:\Users\tilve\OneDrive\Masaüstü\C#\ARABA YARIŞI\ARABA YARIŞI\obj\Debug\ARABA YARIŞI.csproj.SuggestedBindingRedirects.cache
+C:\Users\tilve\OneDrive\Masaüstü\C#\ARABA YARIŞI\ARABA YARIŞI\obj\Debug\ARABA_YARIŞI.Form1.resources
+C:\Users\tilve\OneDrive\Masaüstü\C#\ARABA YARIŞI\ARABA YARIŞI\obj\Debug\ARABA_YARIŞI.Properties.Resources.resources
+C:\Users\tilve\OneDrive\Masaüstü\C#\ARABA YARIŞI\ARABA YARIŞI\obj\Debug\ARABA YARIŞI.csproj.GenerateResource.cache
+C:\Users\tilve\OneDrive\Masaüstü\C#\ARABA YARIŞI\ARABA YARIŞI\obj\Debug\ARABA YARIŞI.csproj.CoreCompileInputs.cache
+C:\Users\tilve\OneDrive\Masaüstü\C#\ARABA YARIŞI\ARABA YARIŞI\obj\Debug\ARABA YARIŞI.exe
+C:\Users\tilve\OneDrive\Masaüstü\C#\ARABA YARIŞI\ARABA YARIŞI\obj\Debug\ARABA YARIŞI.pdb
